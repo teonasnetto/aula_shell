@@ -1,0 +1,2 @@
+
+(yad:418): Gdk-WARNING **: 13:51:10.080: ../../../../../gdk/x11/gdkwindow-x11.c:5633 drawable is not a native X11 window
